@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaroslav</h1>
-<h3 align="center">Junior Golang Developer</h3>
+<h1 align="left">Hi 👋, I'm Yaroslav</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxehwuq&label=Profile%20views&color=0e75b6&style=flat" alt="xxehwuq" /> </p>
 
